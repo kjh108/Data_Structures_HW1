@@ -31,3 +31,4 @@ int main() {
 	int x;
 	std::cin >> x;
 }
+//the runtime for this will be O(n^2) 
